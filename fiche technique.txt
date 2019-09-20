@@ -1,0 +1,21 @@
+FICHE TECHNIQUE:
+
+Taille: 2.3 pouces
+Tension 7.2-9 VTension décimale: 3.6-4.4 V
+
+Courant: 10 ~ 20MA
+Haut et bas dix broches
+
+------------------------------------------------------------------------------------
+
+1.100% nouveau et de haute qualité
+
+2. affichage ditital de lumière élevée
+
+3. faible consommation d'énergie, compatibilité avec IC
+
+4. temps de réponse: <0.1us
+
+5. la vie est plus de 50000 heures
+
+6. température:-20 à 60 degrés Celsius
